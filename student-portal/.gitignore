@@ -1,0 +1,19 @@
+# Java build files
+target/
+*.jar
+*.war
+
+# Maven
+.mvn/
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Log files
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
